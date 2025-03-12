@@ -1,0 +1,3 @@
+[submodule "os-part"]
+	path = os-part
+	url = git@github.com:Badwoman2003/RixOS-os.git
